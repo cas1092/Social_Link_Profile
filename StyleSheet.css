@@ -42,7 +42,7 @@ body {
     gap: 1rem;
     margin: 1rem;
     align-items: center;
-    padding: 1.5rem 2.5rem 1.5rem 1.5rem;
+    padding: 1.5rem 1.5rem 1.5rem 1.5rem;
     flex-basis: inherit;
     
 }
@@ -73,6 +73,7 @@ ul {
     color: var(--White);
     margin: 0;
     list-style: none;
+    padding:0;
     
 }
 
